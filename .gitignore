@@ -1,0 +1,17 @@
+# Archive artifacts
+*.zip
+*.z01
+*.z02
+*.7z
+
+# Scratch extraction folders
+extracted/
+extracted_7z/
+extracted_7z2/
+extracted_full/
+fixed_extract/
+combined_extract/
+
+# OS noise
+Thumbs.db
+.DS_Store
